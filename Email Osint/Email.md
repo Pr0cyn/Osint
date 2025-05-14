@@ -24,3 +24,5 @@ Email Checker - https://email-checker.net/validate
 2. Forget password reveals secondary email address.
 3. Strong proof of a connection, link between the email. 
 4. Passwords might be the same.
+
+![recovery](recovery.png)
