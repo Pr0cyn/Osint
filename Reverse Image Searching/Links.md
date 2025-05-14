@@ -11,3 +11,7 @@ Pimeyes - https://pimeyes.com/en
 ## Viewing EXIF Data
 
 https://jimpl.com/
+
+## GeoGuessr
+
+GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
