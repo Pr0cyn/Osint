@@ -2,4 +2,4 @@
 
 Kiber Osint anyag nyílt használathoz
 
-![kep.jpg](kep.jpg) 
+![kepp.png](kepp.png) 
